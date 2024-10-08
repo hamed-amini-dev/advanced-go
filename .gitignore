@@ -1,0 +1,10 @@
+/bazel-*
+.idea/
+.vscode/
+.DS_Store
+/.env
+/logs
+/node_modules
+/bin%
+.dev.env
+.env*
